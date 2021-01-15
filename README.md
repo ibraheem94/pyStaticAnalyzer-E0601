@@ -9,10 +9,14 @@ this function checks for any variable used before assignment
 
 this project was made for educational reasons
 
-# About the function
+# About this function
 The function is written in main.py
 
 The python code that needs to be checked should be in first.py in the same directory
+
+This first.py contains three of the most common codes that cause the error " Using variable before assignment"
+
+With the same examples written in the correct way
  
 # How to run
 1- install pyStaticAnalyzer by running : pip install pyStaticAnalyzer
@@ -22,6 +26,6 @@ The python code that needs to be checked should be in first.py in the same direc
 3- run : python main.py
 
 
-# Repository of the main checker
+# Repository of the main checker with further explaination
 https://github.com/noname19871/pyStaticAnalyzer.git
   
